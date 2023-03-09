@@ -1,29 +1,125 @@
 {
-    "users":[
+    "tarjima":[
         {
             "id":1,
-            "video":"https://files.uzbeklar.biz/film3/forsaj4.mp4"
+            "name":"Qopqon",
+            "year":2011,
+            "country":"Germaniya, AQSH",
+            "genre":"Tarjima kinolar / Kriminal / Detektiv / Komediya",
+            "time":85,
+            "image": "https://u8919.xvest3.ru/cinema/images/qopqon.jpg",
+            "video": "https://files.uzmovi.club/film6/qopqon-2011.mp4",
+            "telegram": 517
         },
         {
             "id":2,
-            "video":"https://files.uzbeklar.biz/film3/forsaj4.mp4"
+            "name":"Ummonda yolg'iz",
+            "year":2023,
+            "country":"AQSH, Avstraliya",
+            "genre":"Tarjima kinolar / Biografiya / Sarguzashtlar / Drama / Oilaviy",
+            "time":109,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-03/1677751319-787677707.jpg",
+            "video": "https://files.uzmovi.club/film6/ummonda-yolgiz-2023.mp4",
+            "telegram": 628
         },
         {
             "id":3,
-            "video":"https://files.uzbeklar.biz/film3/forsaj4.mp4"
+            "name":"Tez Yordam",
+            "year":2022,
+            "country":"AQSH",
+            "genre":"Tarjima kinolar / Kriminal / Triller / Boevik / Drama",
+            "time":136,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-02/1677305809_1677305871.jpg",
+            "video": "https://files.uzmovi.club/film6/tezyordam-2022.mp4",
+            "telegram": 901
         },
         {
             "id":4,
-            "video":"https://files.uzbeklar.biz/film3/forsaj4.mp4"
+            "name":"Kirakash 4",
+            "year":2007,
+            "country":"Fransiya",
+            "genre":"Tarjima kinolar / Boevik / Komediya",
+            "time":90,
+            "image": "https://uzbeklar.biz/uploads/posts/2020-06/1592762849_taksi-4.jpg",
+            "video": "https://files.uzbeklar.biz/film3/taksi4.mp4",
+            "telegram": 283
         },
         {
             "id":5,
-            "video":"https://files.uzbeklar.biz/film3/forsaj4.mp4"
+            "name":"Forsaj 2",
+            "year":2003,
+            "country":"AQSh, Germaniya, Frantsiya, Kanada, Janubiy Afrika, Avstraliya, Buyuk Britaniya, Yaponiya",
+            "genre":"Tarjima kinolar / Triller / Boevik",
+            "time":107,
+            "image": "https://uzbeklar.biz/uploads/posts/2020-12/1608733053_forsaj-2.jpg",
+            "video": "https://files.uzbeklar.biz/film2/forsaj2.mp4",
+            "telegram": 716
         },
         {
             "id":6,
-            "video":"https://files.uzbeklar.biz/film3/forsaj4.mp4"
+            "name":"Uch soniya",
+            "year":2019,
+            "country":"Buyuk Britaniya, AQSh, Kanada",
+            "genre":"Tarjima kinolar / Triller / Boevik",
+            "time":113,
+            "image": "https://uzbeklar.biz/uploads/posts/2020-11/1605330246_uch-soniya.jpg",
+            "video": "https://uzbeklar.biz/film4/3soniya.mp4",
+            "telegram": 920
+        },
+        {
+            "id":7,
+            "name":"Sotqin",
+            "year":2013,
+            "country":"AQSH, ОАЭ, Birlashgan Qirollik",
+            "genre":"Tarjima kinolar / Triller / Dramma",
+            "time":120,
+            "image": "https://uzbeklar.biz/uploads/posts/2020-06/1592072588_sotqin.jpg",
+            "video": "https://files.uzbeklar.biz/film3/sotqin2013.mp4",
+            "telegram": 190
+        },
+        {
+            "id":8,
+            "name":"So'ngi Topshiriq",
+            "year":2016,
+            "country":"AQSH",
+            "genre":"Tarjima kinolar / Triller / Dramma",
+            "time":87,
+            "image": "https://uzbeklar.biz/uploads/posts/2021-06/1623565514_sigal.jpg",
+            "video": "https://files.uzbeklar.biz/film3/songi-topshiriq.mp4",
+            "telegram": 401
+        },
+        {
+            "id":9,
+            "name":"19 avtomobil",
+            "year":2013,
+            "country":"AQSH, ЮАР",
+            "genre":"Tarjima kinolar / Kriminal / Triller / Boevik / Drama",
+            "time":85,
+            "image": "https://uzbeklar.biz/uploads/posts/2021-10/1634527943-1513616481.jpg",
+            "video": "https://files.uzbeklar.biz/film3/19-avtomobil.mp4",
+            "telegram": 502
+        },
+        {
+            "id":10,
+            "name":"Qo'riqchi",
+            "year":2016,
+            "country":"AQSH",
+            "genre":"Tarjima kinolar / Kriminal / Triller / Boevik",
+            "time":91,
+            "image": "https://uzbeklar.biz/uploads/posts/2021-11/1637859246-980765349.jpg",
+            "video": "https://uzbeklar.biz/film4/qoriqchi-aqsh.mp4",
+            "telegram": 706
+        },
+        {
+            "id":11,
+            "name":"Yo'qolganlar",
+            "year":2018,
+            "country":"Buyuk Britaniya",
+            "genre":"Tarjima kinolar / Kriminal / Triller / Detektiv / Drama",
+            "time":107,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-03/1678162517-804763707.jpg",
+            "video": "https://files.uzmovi.club/film6/yoqolganlar-2018.mp4",
+            "telegram": 409
         }
-
     ]
 }
