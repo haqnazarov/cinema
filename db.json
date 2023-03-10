@@ -1,7 +1,7 @@
 {
     "tarjima":[
         {
-            "id":1,
+            "id":"1e4490ca-df70-472c-a90a-20c2bbf4f5ef",
             "name":"Qopqon",
             "year":2011,
             "country":"Germaniya, AQSH",
@@ -12,7 +12,7 @@
             "telegram": 517
         },
         {
-            "id":2,
+            "id":"925dae0b-74f6-4fca-a6d9-6d6d52fca22f",
             "name":"Ummonda yolg'iz",
             "year":2023,
             "country":"AQSH, Avstraliya",
@@ -23,7 +23,7 @@
             "telegram": 628
         },
         {
-            "id":3,
+            "id":"5310336f-4f16-4499-85db-4724bbe6cba3",
             "name":"Tez Yordam",
             "year":2022,
             "country":"AQSH",
@@ -34,7 +34,7 @@
             "telegram": 901
         },
         {
-            "id":4,
+            "id":"378080ca-55d5-4f06-a870-eb4b54354508",
             "name":"Kirakash 4",
             "year":2007,
             "country":"Fransiya",
@@ -45,7 +45,7 @@
             "telegram": 283
         },
         {
-            "id":5,
+            "id":"418e6e42-f996-4bf5-974a-00e5b231f8c4",
             "name":"Forsaj 2",
             "year":2003,
             "country":"AQSh, Germaniya, Frantsiya, Kanada, Janubiy Afrika, Avstraliya, Buyuk Britaniya, Yaponiya",
@@ -56,7 +56,7 @@
             "telegram": 716
         },
         {
-            "id":6,
+            "id":"8110469a-19b1-4b2f-8f48-7ea04d1934c2",
             "name":"Uch soniya",
             "year":2019,
             "country":"Buyuk Britaniya, AQSh, Kanada",
@@ -67,7 +67,7 @@
             "telegram": 920
         },
         {
-            "id":7,
+            "id":"53c0d029-33f3-47a2-bd31-6a048a4d7ec0",
             "name":"Sotqin",
             "year":2013,
             "country":"AQSH, ОАЭ, Birlashgan Qirollik",
@@ -78,7 +78,7 @@
             "telegram": 190
         },
         {
-            "id":8,
+            "id":"f2d1bb7a-89c3-4c9c-9d30-abb5563fb05d",
             "name":"So'ngi Topshiriq",
             "year":2016,
             "country":"AQSH",
@@ -89,7 +89,7 @@
             "telegram": 401
         },
         {
-            "id":9,
+            "id":"c63e34ad-95e9-41a0-8881-f762a3ca0fd1",
             "name":"19 avtomobil",
             "year":2013,
             "country":"AQSH, ЮАР",
@@ -100,7 +100,7 @@
             "telegram": 502
         },
         {
-            "id":10,
+            "id":"7ec987e2-1fbb-4cd0-a5f7-0927538c655b",
             "name":"Qo'riqchi",
             "year":2016,
             "country":"AQSH",
@@ -111,7 +111,7 @@
             "telegram": 706
         },
         {
-            "id":11,
+            "id":"38f0dab3-ff5a-4169-b251-b4c0413f47f2",
             "name":"Yo'qolganlar",
             "year":2018,
             "country":"Buyuk Britaniya",
