@@ -133,6 +133,116 @@
             "image": "https://uzbeklar.biz/uploads/posts/2023-03/1677989772_1677989746.jpg",
             "video": "https://files.uzmovi.club/film6/isbotlanmagan-jinoyat-2.mp4",
             "telegram": 892
+        },
+        {
+            "id":"ab813a60-13e7-45c2-bafc-f33b2f9f2ead",
+            "name":"Manju missiyasi",
+            "year":2023,
+            "country":"Hindiston",
+            "genre":"Hind kino / Tarixiy / Triller / Boevik / Drama",
+            "time":129,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-02/1675706830_1675706813.jpg",
+            "video": "https://files.uzmovi.club/film6/manju-missiyasi-2023-hind.mp4",
+            "telegram": 101
+        },
+        {
+            "id":"4f363048-00c3-41a8-83a8-11d2431ecb47",
+            "name":"Qalloblik",
+            "year":2018,
+            "country":"Hindiston",
+            "genre":"Hind kino / Drama",
+            "time":161,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-01/1674444753-1511750843.jpg",
+            "video": "https://files.uzmovi.club/film6/qalloblik-2018-hind.mp4",
+            "telegram": 628
+        },
+        {
+            "id":"8cdd049f-f67b-43b4-8b29-10953ec25c9d",
+            "name":"Jangari filmlar qahramoni",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Boevik / Komediya",
+            "time":130,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-03/1677988794_1677988833.jpg",
+            "video": "https://files.uzmovi.club/film6/jangari-filmlar-qahramoni.mp4",
+            "telegram": 944
+        },
+        {
+            "id":"ca2c7fd6-d17f-41b8-8375-75b64f06ee5d",
+            "name":"Qo'g'irchoq",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Kriminal / Triller / Detektiv",
+            "time":120,
+            "image": "https://uzbeklar.biz/uploads/posts/2022-12/1671966688_1671966635.jpg",
+            "video": "https://files.uzmovi.club/film6/cuttputlli-2022.mp4",
+            "telegram": 823
+        },
+        {
+            "id":"aaf7e3e4-3bfa-456f-ba65-402bd2fc3dff",
+            "name":"Ram ko'prigi",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Sarguzashtlar / Boevik",
+            "time":140,
+            "image": "https://uzbeklar.biz/uploads/posts/2022-12/1671594278-1112035088.jpg",
+            "video": "https://files.uzmovi.club/film6/ram-koprigi-hind-2022.mp4",
+            "telegram": 647
+        },
+        {
+            "id":"69004956-3455-4bd5-b960-cd7adb00cf08",
+            "name":"Kaveri o'g'li 1",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Boevik / Drama / Fentezy",
+            "time":167,
+            "image": "https://uzbeklar.biz/uploads/posts/2022-12/1670823769_1.jpeg",
+            "video": "https://files.uzmovi.club/film6/kaveri-ogli-2022.mp4",
+            "telegram": 882
+        },
+        {
+            "id":"5a98f1ce-a54d-4e58-ae32-ee5ff459903e",
+            "name":"Taqdirlar to'qnashuvi tarixi RRR Yengilmas",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Tarixiy / Boevik / Drama",
+            "time":187,
+            "image": "https://uzbeklar.biz/uploads/posts/2022-11/1669141177_1669141176.jpg",
+            "video": "https://files.uzmovi.club/film6/rrr-hindkino.mp4",
+            "telegram": 523
+        },
+        {
+            "id":"4a664a54-c083-42c2-91d4-29d1daef5688",
+            "name":"Brahmastra: Dahshatli qurol",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Boevik / Fentezy",
+            "time":167,
+            "image": "https://uzbeklar.biz/uploads/posts/2022-11/1668355713_1668355675.jpg",
+            "video": "https://files.uzmovi.club/film6/brahmastra-1-2022.mp4",
+            "telegram": 553
+        },
+        {
+            "id":"881c5d85-c0c4-46fc-8687-2631ad5edd41",
+            "name":"Kobra",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Kriminal / Triller / Boevik",
+            "time":183,
+            "image": "https://uzbeklar.biz/uploads/posts/2022-10/1667102187-1023325557.jpg",
+            "video": "https://files.uzmovi.club/film6/kobra-hind.mp4",
+            "telegram": 609
+        },
+        {
+            "id":"3f68cc90-8ad6-45e7-9ac3-8325776d5bda",
+            "name":"Raksha Bandhan",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Drama / Komediya",
+            "time":130,
+            "image": "https://uzbeklar.biz/uploads/posts/2022-10/1667102759_1667102711.jpg",
+            "video": "https://uzbeklar.biz/film5/rakshabandhan-2022.mp4",
+            "telegram": 390
         }
     ],
     "cartoon":[
@@ -146,6 +256,140 @@
             "image": "https://uzbeklar.biz/uploads/posts/2023-01/1673680685-2066492278.jpg",
             "video": "https://files.uzmovi.club/film6/etik-kiygan-mushuk-2-2022-mul1t.mp4",
             "telegram": 398  
+        }
+    ],
+    "cinema":[
+        {
+            "id":"53c0d029-33f3-47a2-bd31-6a048a4d7ec0",
+            "name":"Sotqin",
+            "year":2013,
+            "country":"AQSH, ОАЭ, Birlashgan Qirollik",
+            "genre":"Tarjima kinolar / Triller / Dramma",
+            "time":120,
+            "image": "https://uzbeklar.biz/uploads/posts/2020-06/1592072588_sotqin.jpg",
+            "video": "https://files.uzbeklar.biz/film3/sotqin2013.mp4",
+            "telegram": 190
+        },
+        {
+            "id":"3f68cc90-8ad6-45e7-9ac3-8325776d5bda",
+            "name":"Raksha Bandhan",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Drama / Komediya",
+            "time":130,
+            "image": "https://uzbeklar.biz/uploads/posts/2022-10/1667102759_1667102711.jpg",
+            "video": "https://uzbeklar.biz/film5/rakshabandhan-2022.mp4",
+            "telegram": 390
+        },
+        {
+            "id":"ca2c7fd6-d17f-41b8-8375-75b64f06ee5d",
+            "name":"Qo'g'irchoq",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Kriminal / Triller / Detektiv",
+            "time":120,
+            "image": "https://uzbeklar.biz/uploads/posts/2022-12/1671966688_1671966635.jpg",
+            "video": "https://files.uzmovi.club/film6/cuttputlli-2022.mp4",
+            "telegram": 823
+        },
+        {
+            "id":"1e4490ca-df70-472c-a90a-20c2bbf4f5ef",
+            "name":"Qopqon",
+            "year":2011,
+            "country":"Germaniya, AQSH",
+            "genre":"Tarjima kinolar / Kriminal / Detektiv / Komediya",
+            "time":85,
+            "image": "https://u8919.xvest3.ru/cinema/images/qopqon.jpg",
+            "video": "https://files.uzmovi.club/film6/qopqon-2011.mp4",
+            "telegram": 517
+        },
+        {
+            "id":"925dae0b-74f6-4fca-a6d9-6d6d52fca22f",
+            "name":"Ummonda yolg'iz",
+            "year":2023,
+            "country":"AQSH, Avstraliya",
+            "genre":"Tarjima kinolar / Biografiya / Sarguzashtlar / Drama / Oilaviy",
+            "time":109,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-03/1677751319-787677707.jpg",
+            "video": "https://files.uzmovi.club/film6/ummonda-yolgiz-2023.mp4",
+            "telegram": 628
+        },
+        {
+            "id":"5310336f-4f16-4499-85db-4724bbe6cba3",
+            "name":"Tez Yordam",
+            "year":2022,
+            "country":"AQSH",
+            "genre":"Tarjima kinolar / Kriminal / Triller / Boevik / Drama",
+            "time":136,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-02/1677305809_1677305871.jpg",
+            "video": "https://files.uzmovi.club/film6/tezyordam-2022.mp4",
+            "telegram": 901
+        },
+        {
+            "id":"db2aa1ed-2f2b-44aa-ba02-36da19c41b46",
+            "name":"Isbotlanmagan jinoyat",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Kriminal / Triller / Detektiv / Drama",
+            "time":140,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-03/1677989772_1677989746.jpg",
+            "video": "https://files.uzmovi.club/film6/isbotlanmagan-jinoyat-2.mp4",
+            "telegram": 892
+        },
+        {
+            "id":"ab813a60-13e7-45c2-bafc-f33b2f9f2ead",
+            "name":"Manju missiyasi",
+            "year":2023,
+            "country":"Hindiston",
+            "genre":"Hind kino / Tarixiy / Triller / Boevik / Drama",
+            "time":129,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-02/1675706830_1675706813.jpg",
+            "video": "https://files.uzmovi.club/film6/manju-missiyasi-2023-hind.mp4",
+            "telegram": 101
+        },
+        {
+            "id":"4f363048-00c3-41a8-83a8-11d2431ecb47",
+            "name":"Qalloblik",
+            "year":2018,
+            "country":"Hindiston",
+            "genre":"Hind kino / Drama",
+            "time":161,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-01/1674444753-1511750843.jpg",
+            "video": "https://files.uzmovi.club/film6/qalloblik-2018-hind.mp4",
+            "telegram": 628
+        },
+        {
+            "id":"3658b31d-4545-476d-9e50-85c6cb0b7487",
+            "name":"Etik kiygan mushuk 2: So'nggi istak",
+            "year":2022,
+            "country":"AQSH, Yaponiya",
+            "genre":"Multfilmlar / Sarguzashtlar / Komediya",
+            "time":102,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-01/1673680685-2066492278.jpg",
+            "video": "https://files.uzmovi.club/film6/etik-kiygan-mushuk-2-2022-mul1t.mp4",
+            "telegram": 398  
+        },
+        {
+            "id":"418e6e42-f996-4bf5-974a-00e5b231f8c4",
+            "name":"Forsaj 2",
+            "year":2003,
+            "country":"AQSh, Germaniya, Frantsiya, Kanada, Janubiy Afrika, Avstraliya, Buyuk Britaniya, Yaponiya",
+            "genre":"Tarjima kinolar / Triller / Boevik",
+            "time":107,
+            "image": "https://uzbeklar.biz/uploads/posts/2020-12/1608733053_forsaj-2.jpg",
+            "video": "https://files.uzbeklar.biz/film2/forsaj2.mp4",
+            "telegram": 716
+        },
+        {
+            "id":"8110469a-19b1-4b2f-8f48-7ea04d1934c2",
+            "name":"Uch soniya",
+            "year":2019,
+            "country":"Buyuk Britaniya, AQSh, Kanada",
+            "genre":"Tarjima kinolar / Triller / Boevik",
+            "time":113,
+            "image": "https://uzbeklar.biz/uploads/posts/2020-11/1605330246_uch-soniya.jpg",
+            "video": "https://uzbeklar.biz/film4/3soniya.mp4",
+            "telegram": 920
         }
     ]
 }
