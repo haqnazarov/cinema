@@ -121,5 +121,31 @@
             "video": "https://files.uzmovi.club/film6/yoqolganlar-2018.mp4",
             "telegram": 409
         }
+    ],
+    "hind":[
+        {
+            "id":"db2aa1ed-2f2b-44aa-ba02-36da19c41b46",
+            "name":"Isbotlanmagan jinoyat",
+            "year":2022,
+            "country":"Hindiston",
+            "genre":"Hind kino / Kriminal / Triller / Detektiv / Drama",
+            "time":140,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-03/1677989772_1677989746.jpg",
+            "video": "https://files.uzmovi.club/film6/isbotlanmagan-jinoyat-2.mp4",
+            "telegram": 892
+        }
+    ],
+    "cartoon":[
+        {
+            "id":"3658b31d-4545-476d-9e50-85c6cb0b7487",
+            "name":"Etik kiygan mushuk 2: So'nggi istak",
+            "year":2022,
+            "country":"AQSH, Yaponiya",
+            "genre":"Multfilmlar / Sarguzashtlar / Komediya",
+            "time":102,
+            "image": "https://uzbeklar.biz/uploads/posts/2023-01/1673680685-2066492278.jpg",
+            "video": "https://files.uzmovi.club/film6/etik-kiygan-mushuk-2-2022-mul1t.mp4",
+            "telegram": 398  
+        }
     ]
 }
